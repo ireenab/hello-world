@@ -1,3 +1,4 @@
-print("Hello World")
 def local():
 	print("local edit")
+def foo():
+  print("Hello World")
